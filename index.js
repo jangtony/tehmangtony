@@ -1,7 +1,7 @@
 const count = require('text-count');
 
-function tehmangtony) {
-  const text = "T E H M A N G T O N Y"
+function tehtony) {
+  const text = "T E H T O N Y"
   return {
     text,
     length: count.charCount(text)
@@ -9,4 +9,4 @@ function tehmangtony) {
 }
 
 
-module.exports = Tehmangtony
+module.exports = Tehtony
