@@ -1,0 +1,21 @@
+{
+  "name": "tehmangtony-tea",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://twitter.com/ts287944",
+  "repository": {
+    "url": "https://github.com/jangtony/tehmangtony.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tehmangtony"
+  ],
+  "author": "tehmangtony",
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
+}
